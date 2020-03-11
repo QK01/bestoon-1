@@ -69,3 +69,4 @@ The project contains two different clients (command line and an ionic app for an
 - [x] create and submit the APK!
 - [ ] expand the error messages on the server side. client should understand that token was not valid and refer user to login page
 - [ ] logging system
+just test
